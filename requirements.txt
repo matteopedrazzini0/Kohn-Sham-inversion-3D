@@ -1,0 +1,7 @@
+numpy
+scipy
+cyipopt
+torch
+numba
+numexpr
+findiff
