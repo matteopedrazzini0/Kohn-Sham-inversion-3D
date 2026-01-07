@@ -20,4 +20,6 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Notes: cyipopt may require an IPOPT installation on your system (or via your HPC environment modules). For more details see: https://coin-or.github.io/Ipopt/
+Notes:
+_`cyipopt` may require an IPOPT installation on your system (or via your HPC environment modules).
+_For more details see: https://coin-or.github.io/Ipopt/
