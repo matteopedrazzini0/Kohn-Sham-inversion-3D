@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+.env
+
+# Jupyter (se mai userai notebook)
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / logs
+*.log
+*.out
+*.err
+
+# Results / data (tipico scientific computing)
+results/
+output/
+outputs/
+data/
+datasets/
+plots/
+figures/
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.vtk
+*.dat
