@@ -8,9 +8,7 @@ The formulation is fully three-dimensional and does not assume any spatial symme
 ## Main features
 - Three-dimensional Cartesian grid formulation
 - Kinetic-energy minimization solved using IPOPT
-- Fully numerical implementation developed from scratch
-- Parallelized code designed for large-scale simulations
-- Execution on HPC clusters using SLURM batch scheduling
+- Parallelized code designed for large-scale simulations and execution on HPC clusters
 
 ## Requirements
 
